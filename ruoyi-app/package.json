@@ -1,0 +1,7 @@
+{
+  "name": "ruoyi-app-vue3",
+  "version": "1.0.0",
+  "dependencies": {
+    "vite": "^4.2.2"
+  }
+}
